@@ -4,13 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project shows how Getx the state-manager can be used to navigate and update values in different screens - without building Page contexts all the time
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/59558890/210157730-8fefbaae-1f1b-4423-9262-d2d92d90d0d2.png)
+![image](https://user-images.githubusercontent.com/59558890/210157734-ce60b262-2a52-4126-a4e6-0a0286006e91.png)
